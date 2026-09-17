@@ -1,0 +1,9 @@
+transformers==4.28.0
+datasets
+torch
+tensorflow
+pandas
+numpy
+scikit-learn
+sentencepiece
+accelerate
