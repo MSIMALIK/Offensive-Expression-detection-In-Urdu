@@ -25,6 +25,10 @@ The paper reports **7,604 Facebook comments**, balanced across **3,802 examples 
 
 See [`data/`](data/) for the available files and [`docs/`](docs/) for annotation guidelines and dataset documentation. Check the dataset version before reproducing the published benchmark.
 
+## Workflow of Explainable OED in Nastaliq Urdu
+
+![Workflow for Urdu offensive expression detection](docs/workflow.png)
+
 ## Models and published results
 
 The repository model list includes **XLM-RoBERTa**, **TwHIN-BERT**, and **MuRIL**. The paper's benchmark is listed separately below: **Urdu-RoBERTa and XLM-RoBERTa are distinct models**. Match checkpoint names against the notebooks before comparing results.
@@ -38,9 +42,6 @@ The repository model list includes **XLM-RoBERTa**, **TwHIN-BERT**, and **MuRIL*
 
 *Published values from Table 11 [1], rather than results independently reproduced here.*
 `
-## Working flow of Explainable OED in Nastaliq Urdu
-
-![Workflow for Urdu offensive expression detection](docs/workflow.png)
 
 ## Repository structure
 
