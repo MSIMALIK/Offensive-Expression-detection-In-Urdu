@@ -38,8 +38,10 @@ The repository model list includes **XLM-RoBERTa**, **TwHIN-BERT**, and **MuRIL*
 
 *Published values from Table 11 [1], rather than results independently reproduced here. The paper does not establish a statistically significant ranking among the leading transformers.*
 `
+## Workflow
 
-*Conceptual explanation workflow [1]. Attributions explain model behavior; they do not prove a word is inherently offensive.*
+![Workflow for Urdu offensive expression detection](docs/workflow.png)
+
 
 ## Repository structure
 
