@@ -86,8 +86,9 @@ The dataset may contain offensive, abusive, or sensitive Urdu expressions requir
 
 ## Citation
 
-Please cite the main paper when using this project and acknowledge the study when using its underlying corpus or methods.
+Please cite the main paper when using this project and acknowledge the related study when using its underlying corpus or methods.
 
+### [1] Main paper
 
 ```bibtex
 @misc{malik2026explainable,
@@ -101,6 +102,22 @@ Please cite the main paper when using this project and acknowledge the study whe
   url           = {https://arxiv.org/abs/2610.15795}
 }
 ```
+
+### [2] Related study
+
+```bibtex
+@article{hussain2022identification,
+  title   = {Identification of offensive language in Urdu using semantic and embedding models},
+  author  = {Hussain, Sajid and Malik, Muhammad Shahid Iqbal and Masood, Nayyer},
+  journal = {PeerJ Computer Science},
+  volume  = {8},
+  pages   = {e1169},
+  year    = {2022},
+  doi     = {10.7717/peerj-cs.1169},
+  url     = {https://doi.org/10.7717/peerj-cs.1169}
+}
+```
+
 
 
 ## License
