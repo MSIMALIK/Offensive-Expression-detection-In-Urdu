@@ -38,11 +38,9 @@ The repository model list includes **XLM-RoBERTa**, **TwHIN-BERT**, and **MuRIL*
 
 *Published values from Table 11 [1], rather than results independently reproduced here.*
 `
-## Workflow
+## Working flow of Explainable OED in Nastaliq Urdu
 
 ![Workflow for Urdu offensive expression detection](docs/workflow.png)
-*Working flow of Explainable OED in Nastaliq Urdu*
-`
 
 ## Repository structure
 
