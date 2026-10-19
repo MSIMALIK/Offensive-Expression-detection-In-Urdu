@@ -26,6 +26,7 @@ The paper reports **7,604 Facebook comments**, balanced across **3,802 examples 
 See [`data/`](data/) for the available files and [`docs/`](docs/) for annotation guidelines and dataset documentation. Check the dataset version before reproducing the published benchmark.
 
 ## Workflow of Explainable OED in Nastaliq Urdu
+The framework processes annotated Urdu Facebook posts through text cleaning, preprocessing, and transformer fine-tuning with grid search. Models are evaluated against baseline approaches to classify comments as offensive or non-offensive, while SHAP highlights word-level contributions to predictions.
 
 ![Workflow for Urdu offensive expression detection](docs/workflow.png)
 
