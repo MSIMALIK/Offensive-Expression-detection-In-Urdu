@@ -83,39 +83,6 @@ The main paper identifies lexical and topical shortcuts; performance on other pl
 
 The dataset may contain offensive, abusive, or sensitive Urdu expressions required for training and evaluating offensive-language detection models. Such content is included for research and academic purposes.
 
-## Citation
-
-Please cite the main paper when using this project and acknowledge the related study when using its underlying corpus or methods.
-
-### [1] Main paper
-
-```bibtex
-@misc{malik2026explainable,
-  title         = {An Explainable System for Offensive Content Detection in Nastaliq Urdu: Corpus Curation, Transformer Benchmarking, and Word-Level Attribution},
-  author        = {Malik, Muhammad Shahid Iqbal},
-  year          = {2026},
-  eprint        = {2610.15795},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CL},
-  doi           = {10.48550/arXiv.2610.15795},
-  url           = {https://arxiv.org/abs/2610.15795}
-}
-```
-
-### [2] Related study
-
-```bibtex
-@article{hussain2022identification,
-  title   = {Identification of offensive language in Urdu using semantic and embedding models},
-  author  = {Hussain, Sajid and Malik, Muhammad Shahid Iqbal and Masood, Nayyer},
-  journal = {PeerJ Computer Science},
-  volume  = {8},
-  pages   = {e1169},
-  year    = {2022},
-  doi     = {10.7717/peerj-cs.1169},
-  url     = {https://doi.org/10.7717/peerj-cs.1169}
-}
-```
 
 ## License
 
