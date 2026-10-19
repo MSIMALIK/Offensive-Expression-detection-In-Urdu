@@ -30,6 +30,13 @@ The framework processes annotated Urdu Facebook posts through text cleaning, pre
 
 ![Workflow for Urdu offensive expression detection](docs/workflow.png)
 
+
+## Word-Level SHAP Explanation of an Urdu Prediction
+This visualization shows how individual Urdu words influence the model’s prediction. Red indicates contributions that increase the explained output, while blue indicates contributions that decrease it; stronger colors represent larger effects.
+
+![SHAP visualization showing word contributions to an offensive-language prediction](docs/oed-figure.png)
+
+
 ## Models and published results
 
 The repository model list includes **XLM-RoBERTa**, **TwHIN-BERT**, and **MuRIL**. The paper's benchmark is listed separately below: **Urdu-RoBERTa and XLM-RoBERTa are distinct models**. Match checkpoint names against the notebooks before comparing results.
