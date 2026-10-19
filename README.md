@@ -36,12 +36,13 @@ The repository model list includes **XLM-RoBERTa**, **TwHIN-BERT**, and **MuRIL*
 | Urdu-Twhin-BERT | 86.91 | 86.92 |
 | **MuRIL** | **87.05** | **87.06** |
 
-*Published values from Table 11 [1], rather than results independently reproduced here. The paper does not establish a statistically significant ranking among the leading transformers.*
+*Published values from Table 11 [1], rather than results independently reproduced here.*
 `
 ## Workflow
 
 ![Workflow for Urdu offensive expression detection](docs/workflow.png)
-
+*Working flow of Explainable OED in Nastaliq Urdu*
+`
 
 ## Repository structure
 
